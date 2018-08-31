@@ -1,4 +1,4 @@
 <?php
 return [
-	"freedomtest3.com"
+	"freedomtest5.com"
 ];
